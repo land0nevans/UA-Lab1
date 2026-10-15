@@ -14,10 +14,10 @@ This is a Repository that includes the material and labs required for Assignment
 
 ## Challenges
 
-* \[Lab 1](Lab%201)
-* \[Lab 2]
-* \[Lab 3]
-* \[Slides]
+* [Lab 1](Lab%201)
+* [Lab 2]
+* [Lab 3]
+* [Slides]
 
 
 
@@ -28,5 +28,5 @@ This is a Repository that includes the material and labs required for Assignment
 
 
 
-[Landon Evans - le54@st-andrews.ac.uk]
+Landon Evans - le54@st-andrews.ac.uk
 
