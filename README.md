@@ -1,8 +1,8 @@
-\# GG4257 - Creating Sustainable Cities with Spatial Data Science
+# GG4257 - Creating Sustainable Cities with Spatial Data Science
 
-\# Lab Assignment 1
+# Lab Assignment 1
 
-\### Recap of Python and Handling and GeoVisualisation of Urban Data
+### Recap of Python and Handling and GeoVisualisation of Urban Data
 
 
 
@@ -12,7 +12,7 @@ This is a Repository that includes the material and labs required for Assignment
 
 
 
-\## Challenges
+## Challenges
 
 * \[Lab 1](Lab%201)
 * \[Lab 2]
@@ -21,12 +21,12 @@ This is a Repository that includes the material and labs required for Assignment
 
 
 
-\# Consider 
+# Consider 
 
 * You must install the `ua.yml` environmental file to get all the required libraries.
 * I have included the /data folder for each notebook, please be sure to pull this from GitHub to reproduce results.
 
 
 
-\[Landon Evans - le54@st-andrews.ac.uk]
+[Landon Evans - le54@st-andrews.ac.uk]
 
