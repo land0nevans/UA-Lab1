@@ -14,9 +14,9 @@ This is a Repository that includes the material and labs required for Assignment
 
 ## Challenges
 
-* [Lab 1](Lab%201)
-* [Lab 2](Lab%202)
-* [Lab 3](Lab%203)
+* [Lab 1](Lab%201/Lab1_Challenges.ipynb)
+* [Lab 2](Lab%202/Lab2_Challenges.ipynb)
+* [Lab 3](Lab%203/Lab3_Challenges.ipynb)
 * [Slides]
 
 
