@@ -10,7 +10,7 @@ This is a Repository that includes the material and labs required for Assignment
 
 # Installation
 
-* You must install the `ua.yml` environmental file to get all the required libraries.
+* You must install the `environment.yml` environmental file to get all the required libraries.
 * I have included the /data folder for each notebook, please be sure to pull this from GitHub to reproduce results.
 
 
